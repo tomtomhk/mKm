@@ -1,0 +1,10 @@
+{
+  "peopleFlow": [
+    { "hour": "8:00", "visitors": 500, "period": "Morning" },
+    { "hour": "10:00", "visitors": 1200, "period": "Morning" },
+    { "hour": "12:00", "visitors": 2000, "period": "Afternoon" },
+    { "hour": "14:00", "visitors": 2500, "period": "Afternoon" },
+    { "hour": "16:00", "visitors": 1800, "period": "Evening" },
+    { "hour": "18:00", "visitors": 1500, "period": "Evening" }
+  ]
+}
