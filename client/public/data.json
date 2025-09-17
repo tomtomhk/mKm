@@ -1,0 +1,28 @@
+{
+  "peopleFlow": [
+    { "hour": "0:00", "visitors": 8, "period": "Night" },
+    { "hour": "1:00", "visitors": 7, "period": "Night" },
+    { "hour": "2:00", "visitors": 7, "period": "Night" },
+    { "hour": "3:00", "visitors": 6, "period": "Night" },
+    { "hour": "4:00", "visitors": 6, "period": "Night" },
+    { "hour": "5:00", "visitors": 8, "period": "Night" },
+    { "hour": "6:00", "visitors": 18, "period": "Morning" },
+    { "hour": "7:00", "visitors": 20, "period": "Morning" },
+    { "hour": "8:00", "visitors": 35, "period": "Morning" },
+    { "hour": "9:00", "visitors": 30, "period": "Morning" },
+    { "hour": "10:00", "visitors": 32, "period": "Morning" },
+    { "hour": "11:00", "visitors": 30, "period": "Morning" },
+    { "hour": "12:00", "visitors": 35, "period": "Afternoon" },
+    { "hour": "13:00", "visitors": 33, "period": "Afternoon" },
+    { "hour": "14:00", "visitors": 40, "period": "Afternoon" },
+    { "hour": "15:00", "visitors": 35, "period": "Afternoon" },
+    { "hour": "16:00", "visitors": 33, "period": "Evening" },
+    { "hour": "17:00", "visitors": 35, "period": "Evening" },
+    { "hour": "18:00", "visitors": 38, "period": "Evening" },
+    { "hour": "19:00", "visitors": 32, "period": "Evening" },
+    { "hour": "20:00", "visitors": 25, "period": "Evening" },
+    { "hour": "21:00", "visitors": 20, "period": "Evening" },
+    { "hour": "22:00", "visitors": 15, "period": "Night" },
+    { "hour": "23:00", "visitors": 12, "period": "Night" }
+  ]
+}
